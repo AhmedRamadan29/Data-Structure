@@ -18,11 +18,7 @@ A utility Java program that provides a visual representation of different data s
 
 ## Installation
 
-To get started with the Data Structure Visualizer, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/DataStructureVisualizer.git
+To get started with the Data Structure Visualizer, follow these 
    ```
 
 2. **Navigate to the Directory**:
